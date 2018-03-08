@@ -11,8 +11,8 @@ Implemented DNS Resolver which takes input DNS query and translates the domain i
 - Install the dnspython and pycrypto
 
 # Command to run the code 
-python mydig.py <name> <type>
-Example: python mydig.py www.google.com A
-python mydigDNSSEC.py <name> <type
-Example: python mydigDNSSEC.py verisigninc.com A
+- python mydig.py <name> <type>
+-      Example: python mydig.py www.google.com A
+- python mydigDNSSEC.py <name> <type
+-      Example: python mydigDNSSEC.py verisigninc.com A
 
